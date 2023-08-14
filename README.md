@@ -9,8 +9,9 @@ deve ler o ano de nascimento, o ano atual e depois mostrar a idade. Obs.: O ano 
 informado no formato AAAA (ex.: 1980).
     - Diretório: ``Exercicios-Java/src/main/java/org/example/Ex01.java``
     
-* [ ] **Questão 02**: Escreva um programa que leia um número e determine se ele é par ou
+* [X] **Questão 02**: Escreva um programa que leia um número e determine se ele é par ou
 ímpar.
+   - Diretório: ``Exercicios-Java/src/main/java/org/example/Ex02.java``
 
 * [ ] **Questão 03**: Escreva um programa que leia a altura de 03 pessoas e calcule a média.
 
