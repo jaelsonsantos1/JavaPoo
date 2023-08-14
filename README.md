@@ -13,9 +13,9 @@ informado no formato AAAA (ex.: 1980).
 ímpar.
    - Diretório: ``Exercicios-Java/src/main/java/org/example/Ex02.java``
 
-* [ ] **Questão 03**: Escreva um programa que leia a altura de 03 pessoas e calcule a média.
+* [X] **Questão 03**: Escreva um programa que leia a altura de 03 pessoas e calcule a média.
 
-* [ ] **Questão 04**: Escreva um programa que leia 02 números e determine qual o maior
+* [X] **Questão 04**: Escreva um programa que leia 02 números e determine qual o maior
 número digitado.
 * [ ] **Questão 05**: Escreva um programa que leia a base e a altura de um retângulo e retorne a
 sua área (� � h) e o seu perímetro (2� + 2h).

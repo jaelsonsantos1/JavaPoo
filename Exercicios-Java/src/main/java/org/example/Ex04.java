@@ -1,21 +1,24 @@
 package org.example;
 
-import com.sun.jdi.FloatValue;
-
 import java.util.Scanner;
 
-public class Ex03 {
+public class Ex04 {
     public static void main(String[] args) {
-        // Escreva um programa que leia a altura de 03 pessoas e calcule a média.
+        //  Escreva um programa que leia 02 números e determine qual o maior número digitado.
 
         Scanner input = new Scanner(System.in);
-        int soma = 0;
 
-        for(int i=0; i<3; i++) {
-            System.out.printf("Informe sua altura (cm): ");
-            soma += input.nextInt();
+        System.out.printf("Digite um número: ");
+        int n1 = input.nextInt();
+
+        System.out.printf("Digite outro número: ");
+        int n2 = input.nextInt();
+
+        if(n1>n2) {
+            System.out.printf("%d é maior!", n1);
+        } else {
+            System.out.printf("%d é maior!", n2);
         }
 
-        System.out.printf("A média dos números informados são: %s", soma/3);
     }
 }
